@@ -1,0 +1,11 @@
+Server0 Settings:
+Project: NW-01 WAN & VLAN Case Study
+
+- IP Address: 192.168.1.2
+- Subnet Mask: 255:255:255:0
+- Default Gateway: 192.168.1.1
+- DHCP: Not configured
+- DNS: Not configured
+
+Notes:
+- Server is used as a host only; no DHCP or DNS configured. 
