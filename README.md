@@ -35,6 +35,7 @@ The `supplementary/` folder includes reference checklists for this case study:
 - `NW-01-Checklist-2025.pdf` – condensed version / minimum requirements  
 
 These files provide context for the assignment scope and verification steps.
+> Note: ACLs listed in the checklists were not required and were not implemented.
 
 ## Key Takeaways
 
