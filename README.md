@@ -15,7 +15,7 @@ This project is a full enterprise-style network built in Cisco Packet Tracer. I 
 - Standard device housekeeping, including hostname setup and MD5 password encryption
 - Verified connectivity across all devices
 
-The topology was provided in the assignment, but I also recreated it myself. Both diagrams are included in the `diagrams/` folder to show I can reproduce and understand the network independently.  
+The topology was provided in the assignment, but I also recreated it myself. Both diagrams are included in the `diagram/` folder to show I can reproduce and understand the network independently.  
 
 The Packet Tracer file `Case Study PT (Final).pkt` is included for full review.
 
@@ -23,7 +23,7 @@ The Packet Tracer file `Case Study PT (Final).pkt` is included for full review.
 
 1. Open the Packet Tracer file `Case Study PT (Final).pkt` to explore the network layout and verify configurations.
 2. Check the `configs/` folder to see router, switch, and server configuration files.
-3. Review the `diagrams/` folder for both the original topology and my own recreation.
+3. Review the `diagram/` folder for both the original topology and my own recreation.
 4. Look at the `screenshots/` folder to verify connectivity, VLANs, DHCP, and trunk/EtherChannel functionality.
 5. PCs in VLAN 10 and VLAN 20 are set to obtain IP addresses automatically via DHCP. VLAN 99 hosts are configured manually.
 
