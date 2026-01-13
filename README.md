@@ -17,11 +17,11 @@ This project is a full enterprise-style network built in Cisco Packet Tracer. I 
 
 The topology was provided in the assignment, but I also recreated it myself. Both diagrams are included in the `diagrams/` folder to show I can reproduce and understand the network independently.  
 
-The Packet Tracer file `NW-01-WAN-VLAN-CaseStudy.pkt` is included for full review.
+The Packet Tracer file `Case Study PT (Final).pkt` is included for full review.
 
 ## Instructions / How to Review
 
-1. Open the Packet Tracer file `NW-01-WAN-VLAN-CaseStudy.pkt` to explore the network layout and verify configurations.
+1. Open the Packet Tracer file `Case Study PT (Final).pkt` to explore the network layout and verify configurations.
 2. Check the `configs/` folder to see router, switch, and server configuration files.
 3. Review the `diagrams/` folder for both the original topology and my own recreation.
 4. Look at the `screenshots/` folder to verify connectivity, VLANs, DHCP, and trunk/EtherChannel functionality.
@@ -31,8 +31,8 @@ The Packet Tracer file `NW-01-WAN-VLAN-CaseStudy.pkt` is included for full revie
 
 The `supplementary/` folder includes reference checklists for this case study:
 
-- `NW-01-Checklist-2022.pdf` – full overview of assignment tasks  
-- `NW-01-Checklist-2025.pdf` – condensed version / minimum requirements  
+- `Case Study CNVT 1820 Summer 2022(1).html` – full overview of assignment tasks  
+- `CNVT1820 Case Study Phase CHECKLIST.html` – condensed version / minimum requirements  
 
 These files provide context for the assignment scope and verification steps.
 > Note: ACLs listed in the checklists were not required and were not implemented.
